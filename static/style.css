@@ -1,0 +1,8 @@
+@import url("./github-css.css");
+
+body {
+    box-shadow: 0 0 0 1px #cacaca, 0 0 0 4px #eee;
+    max-width: 700px;
+    margin: 10px auto;
+    padding: 20px;
+}
