@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./static/style.css">
-    <title>Resume</title>
-</head>
-<html>
-<body>
-<div id = "container" class="markdown-body main">
-<center>
-    <h1>符少磊</h1>
-        电话：183 8962 1811
-</center>
-
+ <center>
+     <h1>符少磊</h1>
+      电话：183 8962 1811
+ </center>
 
 ## 个人信息 
 
@@ -32,13 +20,13 @@
 
 ## 项目经历
 
-### 亲逢APP [小组项目](#)
+### 亲逢APP [小组项目]()
 
 *2019/10 - 2019/12 [https://github.com/zhangyiweizyw/searchForLovedOnes](https://github.com/zhangyiweizyw/searchForLovedOnes)*
 
 主要负责OkHttp与后端交互，用RecyclerView去**展示信息流**，以及实现**搜索功能**，通过这次项目我收获了很多经验，对软件开发也有了一定的认知
 
-### 诗韵APP [小组项目](#)
+### 诗韵APP [小组项目]()
 
 *2019/10 - 2019/12 [https://github.com/zhangyiweizyw/PoetryRhyme](https://github.com/zhangyiweizyw/PoetryRhyme)*
 
@@ -51,19 +39,7 @@
 * 有扎实的 **Java** 基础，掌握 Android 架构下网络通信机制，对 **Socket 通信、TCP/IP 和 HTTP** 有较深刻的理解。
 * 熟练使用Git进行版本控制和代码托管、Markdown进行文档编写
 
-  
-</div>
-<script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
-<script>
-    //获取要转换的文字
-    var text = document.getElementById("container").innerHTML;
-    //创建实例
-    var converter = new showdown.Converter();
-    //进行转换
-    var html = converter.makeHtml(text);
-    //展示到对应的地方  result便是id名称
-    document.getElementById("container").innerHTML = html;
-    
-</script>
-</body>
-</html>
+
+
+
+
