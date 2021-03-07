@@ -4,3 +4,7 @@ body {
     max-width: 900px;
     margin: 0px auto;
 }
+
+.markdown-body{
+    font-family: 'Noto Serif SC', serif;
+}
