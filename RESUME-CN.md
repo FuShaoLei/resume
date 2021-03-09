@@ -7,14 +7,14 @@
 
 - 符少磊/男/1999/09
 - 本科/河北师范大学/软件工程/Android开发方向
-- Blog：[https://fushaolei.github.io/](https://fushaolei.github.io/)
+- Blog：[https://fushaolei.vercel.app/](https://fushaolei.vercel.app/)
 - GitHub：[https://github.com/FuShaoLei](https://github.com/FuShaoLei)
 
 ## 工作经历
 
 #### Android实习生 （*2020/9 - 2020/12*  [新浪](https://www.sina.com.cn/)）
 
-在「新浪新闻-Android客户端」下主要负责 Android 端的 Feed流的维护，主要内容是负责 新浪新闻 Feed组件的开发和维护。
+在「新浪新闻-Android客户端」下主要Feed流组件的开发和维护
 
 ## 项目经历
 
